@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sayed Anwar
 ===================================================================================================================================
 
-DevOps Engineer with expertise in AWS
+Junior Project Manager
 -------------------------------------
 
-I am a junior IT professional specializing in DevOps methodologies and cloud infrastructure, with a particular focus on Amazon Web Services (AWS).
+I am a junior IT professional specializing in DevOps methodologies and cloud infrastructure, working on my project management skills 
 
 * 🌍  I'm based in Anywhere around the world
 * ✉️  You can contact me at [sayed15anwar@outlook.com](mailto:sayed15anwar@outlook.com)
-* 🧠  I'm learning KEDA
-* ⚡  A passionate learner
+* 🧠  I'm learning Agile Methodology
+* ⚡  A passionate learner 
 
 ### Skills
 
